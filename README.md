@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Creating Home Lab (Using Virtual Machines)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Why is a safe lab important? Resources to download](https://github.com/OmidAtayee-socAnalyst/Setting-up-the-Environment)
 
 <h2> 📄 Certifications:</h2>
 
