@@ -4,8 +4,8 @@
 
 - <b>Creating Home Lab (Using Virtual Machines)</b>
   - [Why is a safe lab important? Resources to download](https://github.com/OmidAtayee-socAnalyst/Setting-up-the-Environment)
-  - <b>Generating Telemetry and detecting evil on the target machine (Time To Attack!)</b>
-  - [Why is a safe lab important? Resources to download](https://github.com/OmidAtayee-socAnalyst/Setting-up-the-Environment)
+- <b>Generating Telemetry and detecting evil on the target machine (Time To Attack!)</b>
+  - [Prerequisites](https://github.com/OmidAtayee-socAnalyst/Setting-up-the-Environment)
 
 <h2> 📄 Certifications:</h2>
 
