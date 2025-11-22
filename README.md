@@ -6,6 +6,7 @@
   - [Why is a safe lab important? Resources to download](https://github.com/OmidAtayee-socAnalyst/Setting-up-the-Environment)
 - <b>Generating Telemetry and detecting evil on the target machine (Time To Attack!)</b>
   - [Prerequisites](https://github.com/OmidAtayee-socAnalyst/Prerequisites/blob/main/README.md)
+  - [Starting Attack](https://github.com/OmidAtayee-socAnalyst/Prerequisites/blob/main/README.md)
 
 <h2> 📄 Certifications:</h2>
 
